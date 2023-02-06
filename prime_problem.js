@@ -9,9 +9,9 @@ temp++;
 }
 if(temp==0)
 {
-console.log("Entered number is not prime Number");
+console.log("This number is a prime Number");
 }
 else
 {
-console.log("Entered number is Prime Number");
+console.log("This number is not a Prime Number");
 }
