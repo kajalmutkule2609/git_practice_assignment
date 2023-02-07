@@ -1,10 +1,10 @@
-let palindrome="";
+let bag="";
 let str"naman"
     for(let i=str.length-1;i>=0;i++)
     {
-        palindrome=palindrome+i;
+        bag=bag+str[i];
     }
-    if(palindrome==str)
+    if(bag==str)
     {
         console.log("Yes");
     }
